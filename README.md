@@ -1,0 +1,1 @@
+# vosk_keyword_spotter_test
